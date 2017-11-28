@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/crazyvalse/node_examples/issues"
   },
-  "homepage": "https://github.com/crazyvalse/node_examples#readme"
+  "homepage": "https://github.com/crazyvalse/node_examples#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
 }
